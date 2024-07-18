@@ -1,0 +1,39 @@
+body {
+  border: 3px SOLID black;
+}
+.header {
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+}
+.prices {
+  font-weight: bold;
+}
+
+.free {
+  color: #444;
+  text-transform: uppercase;
+  font-size: 18px;
+}
+
+a {
+  color: black;
+}
+/* h4 {
+
+} */
+
+ul {
+  font-size: 16px;
+}
+
+button {
+  color: white;
+  background-color: #000000;
+  font-size: 18px;
+}
+button:hover {
+  background-color: white;
+  color: #000;
+  border: none;
+}
